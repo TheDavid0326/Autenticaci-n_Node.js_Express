@@ -55,24 +55,24 @@ Este proyecto es una aplicación de autenticación básica construida con Node.j
 
 2. Instala las dependencias:
 
-```bash
-npm install
-```
+   ``` bash
+   npm install
+   ```
 
 3. Configura las variables de entorno:
 Crea un archivo .env o config.js en la raíz del proyecto y define las siguientes variables:
 
-```env
-PORT=3000
-SECRET_JWT_KEY=tu_clave_secreta_jwt
-SECRET_REFRESH_JWT_KEY=tu_clave_secreta_refresh_jwt
-SALT_ROUNDS=10
-```
+   ```env
+   PORT=3000
+   SECRET_JWT_KEY=tu_clave_secreta_jwt
+   SECRET_REFRESH_JWT_KEY=tu_clave_secreta_refresh_jwt
+   SALT_ROUNDS=10
+   ```
 4. Inicia el servidor:
 
-```
-npm run dev
-```
+   ```
+   npm run dev
+   ```
 
 5. Abre tu navegador y visita http://localhost:3000 para ver la aplicación en funcionamiento.
 
