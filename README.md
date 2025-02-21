@@ -48,10 +48,10 @@ Este proyecto es una aplicación de autenticación básica construida con Node.j
 ## Cómo Ejecutar el Proyecto
 
 1. Clona el repositorio:
-   ```bash
+``` bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
    cd tu-repositorio
-  ```
+ ```
 
 2. Instala las dependencias:
 
